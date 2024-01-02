@@ -1,0 +1,1 @@
+// Simple implementation => Loop through all the pixels in our canvas and create a particle for each of them separated by the appropriate amount.
